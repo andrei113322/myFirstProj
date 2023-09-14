@@ -1,0 +1,15 @@
+C:\noyeProj\noyeProj\bin\Debug\net6.0\noyeProj.exe
+C:\noyeProj\noyeProj\bin\Debug\net6.0\noyeProj.deps.json
+C:\noyeProj\noyeProj\bin\Debug\net6.0\noyeProj.runtimeconfig.json
+C:\noyeProj\noyeProj\bin\Debug\net6.0\noyeProj.dll
+C:\noyeProj\noyeProj\bin\Debug\net6.0\noyeProj.pdb
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.csproj.AssemblyReference.cache
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.AssemblyInfoInputs.cache
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.AssemblyInfo.cs
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.csproj.CoreCompileInputs.cache
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.dll
+C:\noyeProj\noyeProj\obj\Debug\net6.0\refint\noyeProj.dll
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.pdb
+C:\noyeProj\noyeProj\obj\Debug\net6.0\noyeProj.genruntimeconfig.cache
+C:\noyeProj\noyeProj\obj\Debug\net6.0\ref\noyeProj.dll
